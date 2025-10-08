@@ -1,4 +1,4 @@
-Gana's Portfolio 
+GanaX - My Portfolio Website 
 
 A modern portfolio website designed to highlight my web projects and skills.  
 Clean design, smooth navigation, and a responsive layout for all devices.  
